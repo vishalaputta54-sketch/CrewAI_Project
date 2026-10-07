@@ -255,6 +255,6 @@ It also demonstrates how a local LLM such as Llama 3.2 can be used with CrewAI i
 
 ## 👩‍💻 Author
 
-**Shravani**
+**Vishala**
 
 Built as a learning project to understand CrewAI, local LLMs, tools, agents, and API integration.
